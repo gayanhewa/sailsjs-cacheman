@@ -1,0 +1,30 @@
+{
+  "name": "sailsjs-cacheman",
+  "version": "1.0.0",
+  "description": "SailsJS Cache Module , wraps around Cacheman for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gayanhewa/sailsjs-cacheman.git"
+  },
+  "keywords": [
+    "sailsjs",
+    "nodejs",
+    "cache",
+    "redis",
+    "file",
+    "mongodb"
+  ],
+  "author": "Gayan Hewa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gayanhewa/sailsjs-cacheman/issues"
+  },
+  "homepage": "https://github.com/gayanhewa/sailsjs-cacheman",
+  "dependencies": {
+    "cacheman": "^1.1.0"
+  }
+}

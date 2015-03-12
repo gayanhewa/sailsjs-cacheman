@@ -52,6 +52,6 @@ module.exports.cacheman = {
 ## Useage and API 
 You can switch the driver accordingly. As of the relase v0.1.2 we have support to all available drivers from cacheman. 
 
-(API is available here.)[https://github.com/cayasso/cacheman]
+[API is available here.](https://github.com/cayasso/cacheman)
 
 Credits : [NodeJS Cacheman Package](https://github.com/cayasso/cacheman)

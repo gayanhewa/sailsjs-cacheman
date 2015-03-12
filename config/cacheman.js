@@ -1,6 +1,6 @@
 
 
-module.export.cacheman = {
+module.exports.cacheman = {
   driver: 'memory',
   
   memory: {

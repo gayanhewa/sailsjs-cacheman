@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/gayanhewa/sailsjs-cacheman",
   "dependencies": {
-    "cacheman": "^1.1.0",
+    "cacheman": "2.2.1",
     "cacheman-file": "0.0.8",
     "cacheman-mongo": "^0.2.1",
-    "cacheman-redis": "^0.2.0",
+    "cacheman-redis": "1.1.2",
     "underscore": "^1.8.2"
   }
 }

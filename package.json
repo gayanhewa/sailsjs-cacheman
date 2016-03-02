@@ -1,6 +1,6 @@
 {
   "name": "sailsjs-cacheman",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "SailsJS Cache Module , wraps around Cacheman for NodeJS.",
   "main": "index.js",
   "scripts": {

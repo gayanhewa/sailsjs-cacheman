@@ -12,7 +12,7 @@ The cache object can be called within your app by :
 ~~~
     var Cache = require('sailsjs-cacheman').sailsCacheman('name');
     // You can do a console.log to inspect the object.
-    console.log(Cache);
+    console.log(Cache)
 ~~~
 
 The sails wrapper will look for a configuration file on config/cacheman.js 

@@ -1,4 +1,6 @@
-# Cache plugin intgration for SailsJS
+This package is no longer maintained. It's being archived in favour of https://github.com/cayasso/cacheman plugin.
+
+## Cache plugin intgration for SailsJS
 
 This package simply integrates and bundles Cacheman to be used easily within SailsJS framework.
 
